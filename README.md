@@ -1,8 +1,10 @@
 # CSVFILES.github.io
 project : CSV upload
-* The user navigates to the specific section of the application where the CSV
-* upload feature is available. This might be on a settings page, a data management section, or any other relevant area. Before uploading, the user needs to prepare the CSV file with the data they want to import.
-
+• To upload a CSV file, the user should navigate to the designated section of the application. 
+• This section may be found on a settings page, data management section, or another relevant area. 
+• Before uploading, the user must produce that the CSV file contains all the required data for successful import.
 
 * the server is running on localhost:9000
-hosted link: http://localhost:9000/
+* http://localhost:9000/
+
+hosted link: https://csvupload-deviya-kaithwas.onrender.com/
